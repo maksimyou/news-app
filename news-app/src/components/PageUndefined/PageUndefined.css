@@ -1,0 +1,9 @@
+.page-undefined{
+    width: 100%;
+    height: 50vh;
+    color: beige;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
